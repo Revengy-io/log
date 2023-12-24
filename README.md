@@ -2,7 +2,7 @@
 Note that you need to include the v in the version tag.
 
 ```
-go get github.com/revengy.io/logger@v0.1.0
+go get github.com/revengy-io/logger@v0.1.2
 ```
 
 
@@ -11,7 +11,7 @@ package main
 
 import (
   "fmt"
-  "github.com/revengy.io/logger"
+  "github.com/revengy-io/logger"
 )
 
 func main() {
